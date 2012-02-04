@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title>Stave Prototype</title>
+        <link rel="stylesheet" href="stave.css" type="text/css" media="screen">
+        <script src="vendor/raphael.js" type="text/javascript" charset="utf-8"></script>
+        <script src="vendor/underscore.js" type="text/javascript" charset="utf-8"></script>
+        <script src="vendor/jquery.js" type="text/javascript" charset="utf-8"></script>
+        <script src="vendor/backbone.js" type="text/javascript" charset="utf-8"></script>
+        <script src="vectors.js" type="text/javascript" charset="utf-8"></script>
+        <script src="svg_util.js" type="text/javascript" charset="utf-8"></script>
+    </head>
+    <body bgcolor="#666">
+        <div id="holder"></div>
+    </body>
+</html>
+<script type="text/javascript">
+  App.paper = Raphael("holder", 800, 500);
+
+  // Centrepoint
+  var CX = 80;
+  var CY = 100;
+  // Test vectors (1)
+  var v1 = new App.Vectors.Vector(App.Vectors.crotchetUp);
+  var v2 = new App.Vectors.Vector(App.Vectors.crotchetUp).color('#f00');
+  v1.moveTo(CX, CY);
+  v2.moveTo(CX, CY);
+  v2.setScale(0.5);
+  // Centre crosshair
+  App.paper.path(App.Vectors.crosshair(CX,CY,30)).attr({stroke: '#ccc'});
+
+  // Centrepoint
+  var CX = 160;
+  var CY = 100;
+  // Test vectors (1)
+  var v1 = new App.Vectors.Vector(App.Vectors.crotchetDown);
+  var v2 = new App.Vectors.Vector(App.Vectors.crotchetDown).color('#f00');
+  v1.moveTo(CX, CY);
+  v2.moveTo(CX, CY);
+  v2.setScale(0.5);
+  // Centre crosshair
+  App.paper.path(App.Vectors.crosshair(CX,CY,30)).attr({stroke: '#ccc'});
+
+  // Centrepoint
+  var CX = 240;
+  var CY = 100;
+  // Test vectors (1)
+  var v1 = new App.Vectors.Vector(App.Vectors.crotchetRest);
+  var v2 = new App.Vectors.Vector(App.Vectors.crotchetRest).color('#f00');
+  v1.moveTo(CX, CY);
+  v2.moveTo(CX, CY);
+  v2.setScale(0.5);
+  // Centre crosshair
+  App.paper.path(App.Vectors.crosshair(CX,CY,30)).attr({stroke: '#ccc'});
+
+</script>

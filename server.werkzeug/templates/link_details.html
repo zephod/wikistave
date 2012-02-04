@@ -1,0 +1,17 @@
+{% extends 'layout.html' %}
+{% block title %}Details{% endblock %}
+{% block content %}
+<div class="row">
+  <div class="span16">
+    <h2>Link Details</h2>
+    <dl>
+      <dt>short_id:</dt>
+      <dd>{{ short_id }}</dd>
+    </dl>
+    <dl>
+      <dt>target:</dt>
+      <dd>{{ target }}</dd>
+    </dl>
+  </div>
+</div>
+{% endblock %}

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title>Stave Prototype</title>
+        <link rel="stylesheet" href="vendor/bootstrap.min.css" type="text/css" media="screen">
+        <link rel="stylesheet" href="style.css" type="text/css" media="screen">
+        <script src="vendor/raphael.js" type="text/javascript" charset="utf-8"></script>
+        <script src="vendor/underscore.js" type="text/javascript" charset="utf-8"></script>
+        <script src="vendor/jquery.js" type="text/javascript" charset="utf-8"></script>
+        <script src="vendor/backbone.js" type="text/javascript" charset="utf-8"></script>
+        <!--script src="wikistave.js" type="text/javascript" charset="utf-8"></script-->
+        <script src="src/vectors.js" type="text/javascript" charset="utf-8"></script>
+        <script src="src/util-svg.js" type="text/javascript" charset="utf-8"></script>
+        <script src="src/wikistave-core.js" type="text/javascript" charset="utf-8"></script>
+    </head>
+    <body bgcolor="#666">
+        <div id="holder"></div>
+        <div class="flying-debugger">
+          Click a button to create notes!<br/>
+          <button class="btn js-note primary" value="rest">rest</button>
+          <div class="js-clef g" style="display: inline;">
+            <button class="btn js-note" value="5.0">e</button>
+            <button class="btn js-note" value="4.5">f</button>
+            <button class="btn js-note" value="4.0">g</button>
+            <button class="btn js-note" value="3.5">a</button>
+            <button class="btn js-note" value="3.0">b</button>
+            <button class="btn js-note" value="2.5">c</button>
+            <button class="btn js-note" value="2.0">d</button>
+            <button class="btn js-note" value="1.5">e</button>
+            <button class="btn js-note" value="1.0">f</button>
+            <button class="btn js-note" value="0.5">g</button>
+          </div>
+          <div class="js-clef c" style="display: none;">
+            <button class="btn js-note" value="5.0">f</button>
+            <button class="btn js-note" value="4.5">g</button>
+            <button class="btn js-note" value="4.0">a</button>
+            <button class="btn js-note" value="3.5">b</button>
+            <button class="btn js-note" value="3.0">c</button>
+            <button class="btn js-note" value="2.5">d</button>
+            <button class="btn js-note" value="2.0">e</button>
+            <button class="btn js-note" value="1.5">f</button>
+            <button class="btn js-note" value="1.0">g</button>
+            <button class="btn js-note" value="0.5">a</button>
+          </div>
+          <div class="js-clef f" style="display: none;">
+            <button class="btn js-note" value="5.0">g</button>
+            <button class="btn js-note" value="4.5">a</button>
+            <button class="btn js-note" value="4.0">b</button>
+            <button class="btn js-note" value="3.5">c</button>
+            <button class="btn js-note" value="3.0">d</button>
+            <button class="btn js-note" value="2.5">e</button>
+            <button class="btn js-note" value="2.0">f</button>
+            <button class="btn js-note" value="1.5">g</button>
+            <button class="btn js-note" value="1.0">a</button>
+            <button class="btn js-note" value="0.5">b</button>
+          </div>
+          <button class="btn js-note danger" value="start over">start over</button>
+        </div>
+        <div class="flying-debugger second">
+          Clef: <br/>
+          <input class="js-clef" type="radio" name="clef" value="g" checked />&nbsp;&nbsp;g<br/>
+          <input class="js-clef" type="radio" name="clef" value="c" />&nbsp;&nbsp;c<br/>
+          <input class="js-clef" type="radio" name="clef" value="f" />&nbsp;&nbsp;f<br/>
+        </div>
+    </body>
+</html>

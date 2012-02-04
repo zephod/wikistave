@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{% block title %}{% endblock %}WikiStave</title>
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- styles -->
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/style.css" rel="stylesheet">
+
+    <!-- fav and touch icons -->
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+  </head>
+
+  <body>
+
+    <div class="topbar">
+      <div class="fill">
+        <div class="container">
+          <a class="brand" href="#">WikiStave</a>
+          <ul class="nav">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#contact">Contact</a></li>
+          </ul>
+          <form action="" class="pull-right">
+            <input disabled class="input-small disabled" type="text" placeholder="Username">
+            <input disabled class="input-small disabled" type="password" placeholder="Password">
+            <button disabled class="btn disabled" type="submit">Sign in</button>
+          </form>
+        </div>
+      </div>
+    </div>
+
+    <div class="middle">
+      <div class="container">
+        <div class="page-content">
+          {% block content %}{% endblock %}
+        </div><!-- /page-content -->
+      </div> <!-- /container -->
+    </div> <!-- /middle -->
+
+    <footer>
+      <div class="footer-inner">
+        <div class="container">
+          <div class="row">
+            <div class="span-one-third">
+              <h3>About</h3>
+              <p><a href="#">Project Overview</a></p>
+              <p><a href="#">Contact</a></p>
+              <p><a href="#">Privacy Policy</a></p>
+            </div>
+            <div class="span-one-third">
+              <h3>Search</h3>
+              <form action="#">
+                <input disabled class="disabled" type="search" placeholder="Search for..."/>
+                <input disabled class="btn disabled" type="submit" value="Go"/>
+              </form>
+            </div>
+            <div class="span-one-third">
+              <h3>Author</h3>
+              WikiStave v0.1<br/>
+              Version: 0.1 (pre-alpha)<br/>
+              A demo by <a href="mailto:zephod@gmail.com">Tom Rees</a>.
+              <h3>IP Policy</h3>
+              The content of this site is licensed under a Creative Commons Attribution 3.0 License (all jurisdictions).
+            </div>
+          </div>
+        </div><!-- /container -->
+      </div><!-- /footer-inner -->
+    </footer>
+
+  </body>
+</html>

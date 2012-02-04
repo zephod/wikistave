@@ -1,0 +1,24 @@
+{% extends 'layout.html' %}
+{% block title %}Add URL{% endblock %}
+{% block content %}
+<div class="row">
+  <div class="span16">
+    <form method="post">
+      <fieldset>
+        <div class="clearfix{% if error %} error{% endif %}">
+          <label for="target">Url to shorten:</label>
+          <div class="input">
+            <input class="xlarge" type="text" action="/" name="target" placeholder="Type a URL..."/>
+            {% if error %}<span class="help-inline">{{ error }}</span>{% endif %}
+          </div>
+        </div>
+        <div class="actions" style="width: 400px;">
+          <input class="btn primary" type="submit" value="Submit" />
+          &nbsp;&nbsp;
+          <input class="btn" type="reset" value="Reset" />
+        </div>
+      </fieldset>
+    </form>
+  </div>
+</div>
+{% endblock %}
