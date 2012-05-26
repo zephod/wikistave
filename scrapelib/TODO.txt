@@ -1,0 +1,1 @@
+Turn all of this into a useful scraper targetting ultimate-guitar, and powered by a relational database.

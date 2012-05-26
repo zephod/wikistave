@@ -1,0 +1,14 @@
+
+(checking git)
+
+What can I pull from a tab page?
+--------------------------------
+
+tf_artist = "Avicii";
+tf_song = "Levels";
+
+<input type='hidden' name='tab_id' value='1121071' id="tab_id">
+
+hashlib.sha1("only_UG" + tab_id).hexdigest()
+
+

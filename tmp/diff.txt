@@ -1,0 +1,130 @@
+4,6c4,6
+< <title>King Me  Guitar Pro Tab  by Lamb Of God @ Ultimate-Guitar.Com</title>
+< <meta name="description" content="King Me  Guitar Pro  by Lamb Of God at Ultimate-Guitar.Com, tabbed by evasionoO">
+< <meta name="keywords" content="King Me, Guitar Pro,  Lamb Of God, Ultimate-Guitar.Com, ug">
+---
+> <title>Levels Intro Guitar Pro Tab  by Avicii @ Ultimate-Guitar.Com</title>
+> <meta name="description" content="Levels Intro Guitar Pro  by Avicii at Ultimate-Guitar.Com, tabbed by Slash.vs.Bucket">
+> <meta name="keywords" content="Levels, Guitar Pro,  intro, Avicii, Ultimate-Guitar.Com, ug">
+57c57
+< 													<strong>King Me Guitar Pro</strong> by <b>Lamb Of God</b>, added : <b>January 25th, 2012</b>											</div>
+---
+> 													<strong>Levels intro Guitar Pro</strong> by <b>Avicii</b>, added : <b>January 6th, 2012</b>											</div>
+71c71
+< <SCRIPT TYPE="text/javascript" SRC="http://ad.yieldmanager.com/st?ad_type=ad&ad_size=728x90&section=2652452&g=30&artist=3898&title=kingme"></SCRIPT>
+---
+> <SCRIPT TYPE="text/javascript" SRC="http://ad.yieldmanager.com/st?ad_type=ad&ad_size=728x90&section=2652452&g=0&artist=34411&title=levels"></SCRIPT>
+170c170
+< 	document.write("<img src=\"http://www.ultimate-guitar.com/src/inc/counter.php?1125858&3\" height=\"0\" width=\"0\" border=\"0\">");
+---
+> 	document.write("<img src=\"http://www.ultimate-guitar.com/src/inc/counter.php?1121071&3\" height=\"0\" width=\"0\" border=\"0\">");
+174c174
+< 	<img src="http://www.ultimate-guitar.com/src/inc/counter.php?1125858" height="0" width="0" border="0" alt="">
+---
+> 	<img src="http://www.ultimate-guitar.com/src/inc/counter.php?1121071" height="0" width="0" border="0" alt="">
+221,222c221,222
+< 							<h1>King Me Guitar Pro Tab</h1><br />
+< 							by <a href="http://www.ultimate-guitar.com/tabs/lamb_of_god_tabs.htm" class="gray verd fs-10 bunl">Lamb Of God tabs</a> |
+---
+> 							<h1>Levels Guitar Pro Tab</h1><br />
+> 							by <a href="http://www.ultimate-guitar.com/tabs/avicii_tabs.htm" class="gray verd fs-10 bunl">Avicii tabs</a> |
+224,225c224,225
+< 							tabbed by <a href="http://profile.ultimate-guitar.com/evasionoO/" rel="nofollow" class="gray verd fs-10 bunl">evasionoO</a> |
+< 							<a id="coms_link" href="http://www.ultimate-guitar.com/tab_comment.php?id=1125858&artist_genre=30"  rel="nofollow" class="gray verd fs-10 bunl">comments</a> <font class="gray verd fs-10">(1)</font> <a href="http://www.ultimate-guitar.com/tab_comment.php?id=1125858&artist_genre=30" target="_blank" title="Open comments in new window"><img src="http://img.ultimate-guitar.com/img/1x1.gif" alt="Open comments in new window" width="9" height="9" style="background:url(http://img.ultimate-guitar.com/img/sprite.gif) -61px -10px; border:none"></a>
+---
+> 							tabbed by <a href="http://profile.ultimate-guitar.com/Slash.vs.Bucket/" rel="nofollow" class="gray verd fs-10 bunl">Slash.vs.Bucket</a> |
+> 							<a id="coms_link" href="http://www.ultimate-guitar.com/tab_comment.php?id=1121071&artist_genre=0"  rel="nofollow" class="gray verd fs-10 bunl">comments</a> <font class="gray verd fs-10">(0)</font> <a href="http://www.ultimate-guitar.com/tab_comment.php?id=1121071&artist_genre=0" target="_blank" title="Open comments in new window"><img src="http://img.ultimate-guitar.com/img/1x1.gif" alt="Open comments in new window" width="9" height="9" style="background:url(http://img.ultimate-guitar.com/img/sprite.gif) -61px -10px; border:none"></a>
+229,233c229,233
+< 																					<a id="star1" href="http://www.ultimate-guitar.com/vote0.php?type=3&rowid=1125858&content=1" class="fill cur" style="margin:0px;padding-right:2px">1</a>
+< 																							<a id="star2" href="http://www.ultimate-guitar.com/vote0.php?type=3&rowid=1125858&content=2" class="fill cur" style="margin:0px;padding-right:2px">2</a>
+< 																							<a id="star3" href="http://www.ultimate-guitar.com/vote0.php?type=3&rowid=1125858&content=3" class="fill cur" style="margin:0px;padding-right:2px">3</a>
+< 																							<a id="star4" href="http://www.ultimate-guitar.com/vote0.php?type=3&rowid=1125858&content=4" class="fill cur" style="margin:0px;padding-right:2px">4</a>
+< 																							<a id="star5" href="http://www.ultimate-guitar.com/vote0.php?type=3&rowid=1125858&content=5" class="fill cur" style="margin:0px;padding-right:2px">5</a>
+---
+> 																					<a id="star1" href="http://www.ultimate-guitar.com/vote0.php?type=3&rowid=1121071&content=1" class='fill' style="margin:0px;padding-right:2px">1</a>
+> 																							<a id="star2" href="http://www.ultimate-guitar.com/vote0.php?type=3&rowid=1121071&content=2" class='fill' style="margin:0px;padding-right:2px">2</a>
+> 																							<a id="star3" href="http://www.ultimate-guitar.com/vote0.php?type=3&rowid=1121071&content=3" class='fill' style="margin:0px;padding-right:2px">3</a>
+> 																							<a id="star4" href="http://www.ultimate-guitar.com/vote0.php?type=3&rowid=1121071&content=4" class='fill' style="margin:0px;padding-right:2px">4</a>
+> 																							<a id="star5" href="http://www.ultimate-guitar.com/vote0.php?type=3&rowid=1121071&content=5" class='fill' style="margin:0px;padding-right:2px">5</a>
+235c235
+< 														<div class = "cnt_rate">  <b>5</b> votes </div>
+---
+> 														<div class = "cnt_rate">   </div>
+238c238
+< 								<img src="http://img.ultimate-guitar.com/img/911_guitar.png" width="12" height="12" style="vertical-align:-2px"> <a target="blank" href="http://www.911tabs.com/tabs/l/lamb_of_god/king_me_tab.htm" class="fs-10 verd bunl" style="color:#9DB674; border-bottom:1px solid #C4D7A6" title="King Me guitar, bass, guitar pro, power tabs, and piano tab by Lamb Of God">King Me Guitar Pro</a>
+---
+> 								<img src="http://img.ultimate-guitar.com/img/911_guitar.png" width="12" height="12" style="vertical-align:-2px"> <a target="blank" href="http://www.911tabs.com/tabs/a/avicii/levels_tab.htm" class="fs-10 verd bunl" style="color:#9DB674; border-bottom:1px solid #C4D7A6" title="Levels guitar, bass, guitar pro, power tabs, and piano tab by Avicii">Levels Guitar Pro</a>
+245c245
+< 							<a href="http://www.ultimate-guitar.com/mailto.php?what=tab&id=1125858" rel="nofollow" class="fs-10 verd gray undl" title="E-mail this tab to a friend">send</a>
+---
+> 							<a href="http://www.ultimate-guitar.com/mailto.php?what=tab&id=1121071" rel="nofollow" class="fs-10 verd gray undl" title="E-mail this tab to a friend">send</a>
+251c251
+< 							<a href="http://www.ultimate-guitar.com/report_bad_tab.php?id=1125858" rel="nofollow" class="fs-10 verd gray undl">report</a>
+---
+> 							<a href="http://www.ultimate-guitar.com/report_bad_tab.php?id=1121071" rel="nofollow" class="fs-10 verd gray undl">report</a>
+267c267
+< 										<div class="voted"><div class="votes" style="width:0px"></div></div>										<a href="http://tabs.ultimate-guitar.com/l/lamb_of_god/king_me_ver2_guitar_pro.htm" class="gray fs-10 verd undl">Ver 2</a>
+---
+> 										<div class="voted"><div class="votes" style="width:0px"></div></div>										<a href="http://tabs.ultimate-guitar.com/a/avicii/levels_guitar_pro.htm" class="gray fs-10 verd undl">Ver 1</a>
+347c347
+<                                         <div class="trans_title_div"></div><u><strong>King Me Guitar Pro</strong> by <strong>Lamb Of God</strong>, www.Ultimate-Guitar.Com</u>
+---
+>                                         <div class="trans_title_div"></div><u><strong>Levels Guitar Pro</strong> by <strong>Avicii</strong>, www.Ultimate-Guitar.Com</u>
+360c360
+<         class="fs-11 verd bunl gray" target="_blank" rel="nofollow" style="color:#E8900A; border-bottom:1px solid #FADBBC!important">View King Me tab on your iPhone, iPod Touch or Android</a></td>
+---
+>         class="fs-11 verd bunl gray" target="_blank" rel="nofollow" style="color:#E8900A; border-bottom:1px solid #FADBBC!important">View Levels tab on your iPhone, iPod Touch or Android</a></td>
+364c364
+<                                                 <td><a href="http://www.ultimate-guitar.com/xtra/clktr.php?ug_from=tabs&url=http://www.jango.com/music/lamb+of+god/king+me/" class="fs-11 verd bunl gray" target=blank rel="nofollow">Listen to King Me</a></td>
+---
+>                                                 <td><a href="http://www.ultimate-guitar.com/xtra/clktr.php?ug_from=tabs&url=http://www.jango.com/music/avicii/levels/" class="fs-11 verd bunl gray" target=blank rel="nofollow">Listen to Levels</a></td>
+368,372c368
+<                                                 <td><a href="http://www.ultimate-guitar.com/home/favorites/?tabs&act=addtab&fid=1125858" rel="nofollow" class="fs-11 verd bunl gray">Add to favourites</a></td>
+<                                             </tr>
+<                                                                                         <tr>
+<                                                 <td><div></div></td>										
+<                                                 <td>Tuning (this tab): Drop C# [ C# G# C# F# A# D# ]</td>
+---
+>                                                 <td><a href="http://www.ultimate-guitar.com/home/favorites/?tabs&act=addtab&fid=1121071" rel="nofollow" class="fs-11 verd bunl gray">Add to favourites</a></td>
+380c376
+<                                                 <td>Filesize: 30 Kb</td>
+---
+>                                                 <td>Filesize: 2 Kb</td>
+384c380
+<                                                 <td>Instruments: rhythm guitar #1, rhythm guitar #2, lead guitar, bass, percussion, other</td>
+---
+>                                                 <td>Instruments: rhythm guitar, lead guitar</td>
+397,398c393,394
+< 												tf_artist = "Lamb Of God";
+< 												tf_song = "King Me";
+---
+> 												tf_artist = "Avicii";
+> 												tf_song = "Levels";
+405,407c401,403
+< 												<input type='hidden' name='tab_id' value='1125858' id="tab_id">
+< 												<button class="red prosubmit" type="submit">Download "King Me" Guitar Pro Tab</button><br>
+< 												<b class="verd fs-10 gray">For text version of this tab please <a href="http://www.ultimate-guitar.com/search.php?value=king+me&search_type=text&band_id=3898" target="_blank" class="blue verd fs-10">click here</a></b>
+---
+> 												<input type='hidden' name='tab_id' value='1121071' id="tab_id">
+> 												<button class="red prosubmit" type="submit">Download "Levels" Guitar Pro Tab</button><br>
+> 												<b class="verd fs-10 gray">For text version of this tab please <a href="http://www.ultimate-guitar.com/search.php?value=levels&search_type=text&band_id=34411" target="_blank" class="blue verd fs-10">click here</a></b>
+497c493
+< 		stars_fill (5);
+---
+> 		stars_fill (0);
+506c502
+<  		viewComments(1125858,false,'all');
+---
+>  		viewComments(1121071,false,'all');
+511c507
+< 	refferers(def,1125858);
+---
+> 	refferers(def,1121071);
+624c620
+<         'USMWO0l5Qw1ESAQURS8oMiMGVQ0nXUUlIFgbJhkeJlstTEsMAHFoCFRSeAkAMisRZ3JrE3cCIiQCKHYFECFrfmcvIz0+Cx1/DkgNeAAMdmUhOT89QHYjB1NLDUtVM1ojCBA4H1UWZ1VeOSwNHE8lRXc=',
+---
+>         'USMWO0l5Qw1ESAQURS8oMiMGVQ0nXUUlIFgbJhkeJlstTEsMAHFoCFRSeAkAMj0RZDFzHF08MiQeChsOAExhb2YJIz06Cx97MzRdAgJ6NzIOF1cmRkQhdFAeJgZcN0NxUhR/',
+647c643
+<     idtab = '112de2';
+---
+>     idtab = '111b2f';
